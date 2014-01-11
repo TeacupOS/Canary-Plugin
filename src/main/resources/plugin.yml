@@ -1,0 +1,5 @@
+name: ${project.name}
+main: ${project.groupId}.${project.artifactId}.Canary
+version: ${project.version}
+author: Kezz101
+website: ${project.url}
